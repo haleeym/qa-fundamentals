@@ -1,2 +1,2 @@
-# qa-fundamentals
-Manual QA fundamentals: Test cases, Jira bug reports, Postman API tests, DevTools findings, and other tools
+# QA Fundamentals
+Proof of my manual QA skills: Jira bug reports, Postman API tests, DevTools findings, and test cases.
