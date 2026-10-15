@@ -1,9 +1,9 @@
-# QA Fundamentals | Manual Testing Portfolio
+## QA Fundamentals | Manual Testing Portfolio
 
 Welcome to my QA Manual Testing Portfolio! 👋
 This repository showcases my practical skills in software quality assurance, with a focus on manual testing, exploratory testing, API testing, and defect reporting.
 
-# 📌 Repository Overview
+## 📌 Repository Overview
 
 This portfolio contains practical testing artifacts that demonstrate my understanding of QA fundamentals and software testing practices, including:
 
@@ -16,16 +16,37 @@ This portfolio contains practical testing artifacts that demonstrate my understa
 
 The portfolio captures real-world testing scenarios for web applications and public APIs, covering the entire QA lifecycle — from test planning and execution to defect reporting and final documentation. It reflects a thorough understanding of QA methodologies and attention to detail in both functional and exploratory testing.
 
-📂 # Repository Structure
+## 📂 Repository Structure
 
-test-cases/ — Manual test cases and execution results
-bug-reports/ — Defect reports with reproduction steps, expected results, and actual results
-api-testing/ — API requests, test collections, and validation results
-exploratory-testing/ — Exploratory testing notes and findings
-test-summary-reports/ — Test summaries, coverage, and execution metrics.
+```
+qa-fundamentals/
+├── 01-test-cases/
+│   ├── README.md
+│   └── Test-cases.xlsx
+├── 02-bug-reports/
+│   ├── README.md
+│   ├── Bug-report.xlsx
+│   └── Jira-screenshots/
+├── 03-test-summary/
+│   ├── README.md
+│   └── test-summary-report.md
+├── 04-devtools-findings/
+│   ├── README.md
+│   ├── network-error-notes.md
+│   └── screenshots/
+├── 05-postman-api-tests/
+│   ├── README.md
+│   ├── JP_001_GetPost_Valid_Postman.png
+│   ├── JP_002_GetAllPosts_Postman.png
+│   ├── JP_003_GetPost_NotFound_Postman.png
+│   ├── JP_004_CreatePost_Postman.png
+│   └── JP_005_DeletePost_Postman.png
+├── .gitattributes
+├── .gitignore
+└── README.md
 
 
-# 🧑‍💻 Skills & Tools
+## 🧑‍💻 Skills & Tools
 
 - Manual test case design (functional, boundary, exploratory)
 - Exploratory testing techniques and session-based testing
@@ -34,7 +55,7 @@ test-summary-reports/ — Test summaries, coverage, and execution metrics.
 - Basic REST API testing using Postman
 - Bug triage and defect tracking mindset
 
-# 💡 Testing Projects
+## 💡 Testing Projects
 - Web Application Testing: 
 Testing login flows, form submissions, navigation, and input validation.
 
@@ -50,26 +71,24 @@ Validating REST API endpoints, HTTP status codes, response data, and request beh
 These highlight problem discovery, communication precision, and attention to detail — core QA competencies.
 
 
- 🎯 # My QA Approach
+## 🎯 My QA Approach
 
 My approach to quality assurance focuses on understanding requirements, designing meaningful test scenarios, identifying defects, documenting reproducible findings, and communicating results clearly.
 
 I am continuously strengthening my technical skills and expanding my knowledge of test automation.
 
-# 🤝 Feedback & Collaboration
+## 🤝 Feedback & Collaboration
 
 I welcome constructive feedback, collaboration, and opportunities to learn from QA professionals and development teams.
 Suggestions and documentation improvements are welcome through GitHub Issues.
 
-# 📬 Contact Me
-Reach out to me via GitHub or:
+## 📬 Contact
 
 - Email: haleemayira@gmail.com
-- LinkedIn: www.linkedin.com/in/haleemayira
+- LinkedIn: https://www.linkedin.com/in/haleemayira
 
-  ---
-  Thank you for visiting my QA Manual Testing Portfolio — let's build quality software together! 🚀
-
+---
+Thanks for visiting. Feedback is welcome through GitHub Issues — let's build quality software together! 🚀 .
 
 
 
