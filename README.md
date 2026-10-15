@@ -46,7 +46,7 @@ qa-fundamentals/
 └── README.md
 
 
-## 🧑‍💻 Skills & Tools
+##🧑‍💻 Skills & Tools
 
 - Manual test case design (functional, boundary, exploratory)
 - Exploratory testing techniques and session-based testing
@@ -55,7 +55,7 @@ qa-fundamentals/
 - Basic REST API testing using Postman
 - Bug triage and defect tracking mindset
 
-## 💡 Testing Projects
+##💡 Testing Projects
 - Web Application Testing: 
 Testing login flows, form submissions, navigation, and input validation.
 
@@ -71,13 +71,13 @@ Validating REST API endpoints, HTTP status codes, response data, and request beh
 These highlight problem discovery, communication precision, and attention to detail — core QA competencies.
 
 
-## 🎯 My QA Approach
+##🎯 My QA Approach
 
 My approach to quality assurance focuses on understanding requirements, designing meaningful test scenarios, identifying defects, documenting reproducible findings, and communicating results clearly.
 
 I am continuously strengthening my technical skills and expanding my knowledge of test automation.
 
-## 🤝 Feedback & Collaboration
+##🤝 Feedback & Collaboration
 
 I welcome constructive feedback, collaboration, and opportunities to learn from QA professionals and development teams.
 Suggestions and documentation improvements are welcome through GitHub Issues.
